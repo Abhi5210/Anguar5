@@ -1,0 +1,14 @@
+.unit1 {
+font-family: Arial, Helvetica, sans-serif;
+background-color: lightsalmon;
+float:left;
+height: 300px;
+width: 300px;
+}
+.unit2 {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: pink;
+    height: 300px;
+    float:left;
+    width: 300px;
+}
